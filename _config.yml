@@ -1,1 +1,5 @@
-
+title: My Awesome Blog
+description: A blog built entirely online with GitHub Pages and Jekyll.
+theme: minima
+# Optionally, set the URL if you have one:
+# url: "https://username.github.io"
